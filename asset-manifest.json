@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Maksmaximusmaxim/goit-react-hw-04-phonebook/static/css/main.66b8f693.css",
+    "main.js": "/Maksmaximusmaxim/goit-react-hw-04-phonebook/static/js/main.5de12ee2.js",
+    "index.html": "/Maksmaximusmaxim/goit-react-hw-04-phonebook/index.html",
+    "main.66b8f693.css.map": "/Maksmaximusmaxim/goit-react-hw-04-phonebook/static/css/main.66b8f693.css.map",
+    "main.5de12ee2.js.map": "/Maksmaximusmaxim/goit-react-hw-04-phonebook/static/js/main.5de12ee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b8f693.css",
+    "static/js/main.5de12ee2.js"
+  ]
+}
